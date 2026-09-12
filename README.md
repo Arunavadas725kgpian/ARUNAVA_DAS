@@ -34,6 +34,11 @@
 * 💻 I'm a postgraduate student of **IIT KHARAGPUR** and a great enthusiast in technology.
 * 🛠️ I am a Full Stack Developer & Chemical Engineering simulation researcher.
 * 🌐 Check out my live e-commerce project: [ADKart Platform](http://adkart2026.infinityfreeapp.com/login.php)
+* How to reach me:LinkedIn 
+
+📧 gmail : sayandad7@gmail.com 
+
+
 
 ---
 
