@@ -5,20 +5,20 @@
   # Hey there! I'm Arunava Das
   
   <p align="center">
-    M.Tech Chemical Engineering Student at IIT Kharagpur | Full-Stack Developer & Simulation Enthusiast
+    M.Tech Student at <b>IIT KHARAGPUR</b> | Full-Stack Developer & Simulation Enthusiast
   </p>
 
   <br>
 
-  <!-- Social Badges -->
+  <!-- Social & Contact Badges -->
   <a href="https://www.linkedin.com/in/arunava-das-725k">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sayandad725@kgpian.iitkgp.ac.in">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Arunavadas725kgpian">
-    <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="http://adkart2026.infinityfreeapp.com/login.php">
-    <img src="https://img.shields.io/badge/WEBSITE-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <br><br>
@@ -30,9 +30,31 @@
 
 ---
 
-### 💻 Tech Stack & Tools:
-* **Languages & Web:** C, C++, Python, HTML5, CSS3, JavaScript, PHP, MySQL
-* **Simulations & Analysis:** COMSOL Multiphysics, Aspen HYSYS, ANSYS, MATLAB, PIVlab
-* **Tools & Platforms:** Git, GitHub, VS Code, XAMPP, Google Cloud Platform
+### 🚀 About Me :
+* 💻 I'm a postgraduate student of **IIT KHARAGPUR** and a great enthusiast in technology.
+* 🛠️ I am a Full Stack Developer & Chemical Engineering simulation researcher.
+* 🌐 Check out my live e-commerce project: [ADKart Platform](http://adkart2026.infinityfreeapp.com/login.php)
+
+---
+
+### 🎯 Domain of interest :
+* 🔹 Full stack Web development (HTML, CSS, JS, PHP, MySQL)
+* 🔹 Data Science & Numerical Simulations (COMSOL, Aspen HYSYS, MATLAB)
+* 🔹 Multiphase CFD Models & Process Optimization
+
+---
+
+### 💻 Languages and Tools :
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,bootstrap,cpp,python,matlab" />
+</p>
+
+---
+
+### 📊 My GitHub Stats :
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arunavadas725kgpian&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunavadas725kgpian&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
 
 ---
