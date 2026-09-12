@@ -34,7 +34,7 @@
 * 💻 I'm a postgraduate student of **IIT KHARAGPUR** and a great enthusiast in technology.
 * 🛠️ I am a Full Stack Developer & Chemical Engineering simulation researcher.
 * 🌐 Check out my live e-commerce project: [ADKart Platform](http://adkart2026.infinityfreeapp.com/login.php)
-* How to reach me:LinkedIn 
+* 📫How to reach me:LinkedIn Arunava Das[https://www.linkedin.com/in/arunava-das-873300245?utm_source=share_via&utm_content=profile&utm_medium=member_android](url)
 
 📧 gmail : sayandad7@gmail.com 
 
