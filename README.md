@@ -1,20 +1,38 @@
-### Hi there! 👋 I'm Arunava Das
+<div align="center">
 
-<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunava-das-725k)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arunavadas725kgpian)
+  # Hey there! I'm Arunava Das
+  
+  <p align="center">
+    M.Tech Chemical Engineering Student at IIT Kharagpur | Full-Stack Developer & Simulation Enthusiast
+  </p>
+
+  <br>
+
+  <!-- Social Badges -->
+  <a href="https://www.linkedin.com/in/arunava-das-725k">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Arunavadas725kgpian">
+    <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="http://adkart2026.infinityfreeapp.com/login.php">
+    <img src="https://img.shields.io/badge/WEBSITE-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
+  <br><br>
+
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Arunavadas725kgpian&color=blue&style=flat-square" alt="Profile Views" />
+
+</div>
 
 ---
 
-### 🎓 About Me
-* 🌱 I am an M.Tech student in **Chemical Engineering** at **IIT Kharagpur** (2025–2027), having completed my B.Tech from the University of Calcutta.
-* 💻 Passionate about bridging chemical engineering simulations (COMSOL, Aspen HYSYS) with software development and full-stack/web applications (HTML, CSS, JavaScript, PHP, MySQL).
-* 🚀 Built projects ranging from multiphase CFD simulations and biodiesel optimization to e-commerce platforms like **ADKart** ([Live Demo](http://adkart2026.infinityfreeapp.com/login.php)).
+### 💻 Tech Stack & Tools:
+* **Languages & Web:** C, C++, Python, HTML5, CSS3, JavaScript, PHP, MySQL
+* **Simulations & Analysis:** COMSOL Multiphysics, Aspen HYSYS, ANSYS, MATLAB, PIVlab
+* **Tools & Platforms:** Git, GitHub, VS Code, XAMPP, Google Cloud Platform
 
 ---
-
-### 🛠️ Tech Stack & Tools:
-* **Languages:** C, C++, Python, HTML5, CSS3, JavaScript, MATLAB
-* **Simulation & Analysis:** COMSOL Multiphysics, Aspen HYSYS, ANSYS, MATLAB, PIVlab
-* **Tools & Databases:** Git, GitHub, VS Code, XAMPP, Excel, MySQL
